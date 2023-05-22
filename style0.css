@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.swiper{
+    width: calc(100% - 20%);
+    height: calc(100% - 4rem);
+    
+    
+}
+.swiper-slide{  
+      text-align: center;
+      padding: 30px 0; 
+      margin-bottom: 30px;      
+}
+
+
+
+
+img{
+    height: 100px;
+    width: 150px;
+}
+
+.pagination{
+    position: absolute;
+    width: calc(100% - 10%);
+    height: calc(100% - 4rem);
+    
+    
+ }
