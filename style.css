@@ -70,8 +70,8 @@
        
  }
 
-@media all and (max-width: 1250px) {
-    /* For mobile phones: */
+@media all and (max-width: 1300px) {
+    /* For other  dimensions: */
 
     .swiper-slide{  
         
